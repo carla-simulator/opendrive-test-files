@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenDRIVE>
-    <header revMajor="1" revMinor="4" name="" version="1" date="2019-03-07T14:23:46" north="2.8380911043939612e+1" south="-3.5649039784407506e+2" east="4.2246085901382361e+2" west="-2.8712757754700988e+1" vendor="VectorZero">
-        <geoReference><![CDATA[+proj=tmerc +lat_0=0 +lon_0=0 +k=1 +x_0=0 +y_0=0 +datum=WGS84 +units=m +geoidgrids=egm96_15.gtx +vunits=m +no_defs ]]></geoReference>
+    <header revMajor="1" revMinor="4" name="" version="1" date="2019-03-26T18:13:56" north="2.8380911043939612e+1" south="-3.5649039784407506e+2" east="4.2246085901382361e+2" west="-2.8712757754700988e+1" vendor="VectorZero">
+        <geoReference><![CDATA[+lat_0=4.9000000000000000e+1 +lon_0=8.0000000000000000e+0]]></geoReference>
         <userData>
             <vectorScene program="RoadRunner" version="2019.0.0 (build 739aef7bb)"/>
         </userData>
@@ -59,7 +59,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -149,7 +149,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -226,7 +226,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -308,7 +308,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -390,7 +390,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -472,7 +472,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -573,7 +573,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -655,7 +655,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -768,7 +768,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -853,7 +853,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -926,7 +926,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1024,7 +1024,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1109,7 +1109,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1207,7 +1207,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1317,7 +1317,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1433,7 +1433,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1518,7 +1518,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1591,7 +1591,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1664,7 +1664,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1737,7 +1737,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1835,7 +1835,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1920,7 +1920,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -1993,7 +1993,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -2066,7 +2066,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -2139,7 +2139,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -2212,7 +2212,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -2375,9 +2375,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0154206057314070e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5015433111100066e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5015433111100066e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -2402,9 +2402,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0154206057314070e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5015433111100066e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5015433111100066e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -2656,9 +2656,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0078734833174678e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5007874193368998e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5007874193368998e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -2682,9 +2682,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0078734833174678e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5007874193368998e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5007874193368998e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -2936,9 +2936,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0088492777171609e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5008857415875752e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5008857415875752e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -2962,9 +2962,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0088492777171609e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5008857415875752e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5008857415875752e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -3116,7 +3116,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -3140,7 +3140,7 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -3490,7 +3490,7 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -3514,7 +3514,7 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -3666,9 +3666,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0138166401155075e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5013825747715011e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5013825747715011e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -3692,9 +3692,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0138166401155075e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5013825747715011e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5013825747715011e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -4048,9 +4048,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0249845031127336e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5025021540242847e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5025021540242847e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -4074,9 +4074,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0249845031127336e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5025021540242847e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5025021540242847e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -4326,9 +4326,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0327297796432617e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5032786352985681e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5032786352985681e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -4352,9 +4352,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0327297796432617e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5032786352985681e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5032786352985681e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -4708,9 +4708,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="6.9692351958972694e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.4969284496218307e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.4969284496218307e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -4734,9 +4734,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="6.9692351958972694e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.4969284496218307e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.4969284496218307e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -4988,9 +4988,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0213775640362854e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5021408054792907e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5021408054792907e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -5014,9 +5014,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0213775640362854e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5021408054792907e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5021408054792907e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -5068,9 +5068,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="6.9881096619474121e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.4988115167623747e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.4988115167623747e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -5094,9 +5094,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="6.9881096619474121e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.4988115167623747e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.4988115167623747e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
@@ -5548,9 +5548,9 @@
                 </left>
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0068988274645676e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5006902049970307e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5006902049970307e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
             </laneSection>
@@ -5574,9 +5574,9 @@
             <laneSection s="0.0000000000000000e+0">
                 <center>
                     <lane id="0" type="none" level="false">
-                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                         <roadMark sOffset="7.0068988274645676e+0" type="none" material="standard" color="white" laneChange="none"/>
-                        <roadMark sOffset="1.5006902049970307e+1" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <roadMark sOffset="1.5006902049970307e+1" type="broken" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
                     </lane>
                 </center>
                 <right>
